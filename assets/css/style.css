@@ -82,7 +82,7 @@ h6 {
   right: 15px;
   bottom: 15px;
   z-index: 996;
-  background: #34b7a7;
+  background: #a55eea;
   width: 40px;
   height: 40px;
   border-radius: 50px;
@@ -96,7 +96,7 @@ h6 {
 }
 
 .back-to-top:hover {
-  background: #49cbbb;
+  background: #a55eea;
   color: #fff;
 }
 
@@ -1151,11 +1151,11 @@ section {
 
 .contact .info i {
   font-size: 20px;
-  color: #34b7a7;
+  color: #a55eea;
   float: left;
   width: 44px;
   height: 44px;
-  background: #effbf9;
+  background: #f0f0f0;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -1186,7 +1186,7 @@ section {
 .contact .info .email:hover i,
 .contact .info .address:hover i,
 .contact .info .phone:hover i {
-  background: #34b7a7;
+  background: #a55eea;
   color: #fff;
 }
 
